@@ -19,7 +19,7 @@ I edit my files in Spacemacs (evil mode), sometimes Jupyter Lab.
 ### On my roadmap
 
 - Java/Apex
-- Clojure (or other lisp)
+- lisp of some kind, possibly Emacs Lisp or Clojure
 
 
 
