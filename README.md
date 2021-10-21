@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Filip (he/him), I'm the Operations Manager at Otwarte Klatki. I like tabular data and building stuff in Minecraft. 
-I edit my files in Spacemacs (evil mode), sometimes Jupyter Lab.
+I edit my files in Doom Emacs (evil mode), sometimes Jupyter Lab.
 
 
 
@@ -14,12 +14,11 @@ I edit my files in Spacemacs (evil mode), sometimes Jupyter Lab.
 
 ### Currently learning
 
-- JavaScript
+- Clojure
 
 ### On my roadmap
 
 - Java/Apex
-- lisp of some kind, possibly Emacs Lisp or Clojure
 
 
 
