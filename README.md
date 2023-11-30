@@ -7,14 +7,14 @@ I edit my files in Doom Emacs (evil mode), sometimes Jupyter Lab.
 
 ### My technologies of choice are:
 
-- Linux (Manjaro)
+- Linux (Arch)
 - Google spreadsheets
 - Python (pandas, numpy)
 - Salesforce
 
 ### Currently learning
 
-- Clojure
+- Rust
 
 ### On my roadmap
 
